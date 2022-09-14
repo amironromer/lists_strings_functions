@@ -143,6 +143,7 @@ print(letters)
 # In[ ]:
 
 
+
 multiDimen=[[3,5],[7,6],[6,3],[8,9]]
 print(multiDimen[3][0])
 
@@ -158,7 +159,11 @@ print(multiDimen[3][0])
 
 # In[ ]:
 
-
+avengers = ["Hawkeye","Hulk","Iron Man","Black Panther","Captain America"]
+guardiansOfTheGalaxy = ["Starlord","Drax","Rocket","Groot","Mantis","Gamora"]
+# join the lists in a new list
+# add two more characters into the mew list
+# reverse the list
 
 
 # #Tuples
@@ -174,3 +179,4 @@ print(multiDimen[3][0])
 
 #you define a tuple with () instead of [] like you would in lists
 #once you define it, you cannot change it
+coordinates = (4,5)
