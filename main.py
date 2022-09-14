@@ -118,7 +118,7 @@ print(newList.append("jose"))
 print(newList.append("james"))
 print(newList)
 print(newList[4])
-print(newList)
+print(newList.sort())
 # birthday_guests[0] ="charlie"
 
 
@@ -128,7 +128,10 @@ print(newList)
 
 
 #.remove(), .append(), sort(), .len() are list functions
-
+numbers={1,2,3,4,5,6,7,8,9,10}
+letters={"a,b,c,d,e,f,g,h,i,j"}
+print(numbers)
+print(letters)
 
 # In[3]:
 
@@ -140,8 +143,8 @@ print(newList)
 # In[ ]:
 
 
-
-
+multiDimen=[[3,5],[7,6],[6,3],[8,9]]
+print(multiDimen[3][0])
 
 # In[ ]:
 
