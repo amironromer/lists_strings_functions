@@ -2,7 +2,23 @@
 
 # Alejandro's code
 
+# name=input("what is your name")
+x=3
+y=4
+print(x+y)
 
+# string manipulation
+text="ABCDEFGHIJKL"
+# SUBSTRING
+fragment=text[:]
+print(fragment.lower())
+
+
+# splinting strings
+text2="we are learning about splitting strings"
+print(len(text2))
+splitText= text2.split()
+print(splitText[4])
 ########################################################################################################################
 # 3 challenges
 #exercises for index method
